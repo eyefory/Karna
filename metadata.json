@@ -1,0 +1,7 @@
+{
+  "name": "Karna - The Ultimate AI",
+  "description": "A voice-only, all-knowing AI companion created by AK. Features a deep-blue aesthetic and real-time Gemini Live integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
